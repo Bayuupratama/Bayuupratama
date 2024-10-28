@@ -1,6 +1,4 @@
-# kalkulator-js
-How do you use a calculator if there is no maker!?
-
+# Hi there 👋 
 # 💫 About Me:
 👯 I’m want to collaborate with anyone<br>🤝 I’m looking for help<br>🌱 I’m currently studying data management, analytics, and predictive models<br>💬 Ask me about Python, R, and SQL<br>⚡ Fun fact I can solve complex math problems, but still have to ask where to keep my house keys every day
 
